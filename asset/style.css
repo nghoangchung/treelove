@@ -70,3 +70,9 @@ a {
 .space {
   margin-right: 150px;
 }
+.gold {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.12em;
+  filter: drop-shadow(0 0 2px rgba(245, 197, 66, 0.8));
+}
