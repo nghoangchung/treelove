@@ -170,6 +170,8 @@
       $await(flowAnimate());
       $await(moveAnimate());
 
+      $("#portrait").fadeIn(1500);
+
       textAnimate().start();
 
       $await(jumpAnimate());
